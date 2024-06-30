@@ -1,0 +1,19 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset directory
+dataset/
+
+# Ignore specific image files
+*.jpg
+
+# Ignore HDF5 model files
+sign_model.h5
+sign_model_new.h5
+sign_model_40.h5
+sign_model_weights.h5
+sign_model_weights_40.h5
+sign_model_weights_new.h5
+
+# Ignore Python notebooks
+Untitled.ipynb
